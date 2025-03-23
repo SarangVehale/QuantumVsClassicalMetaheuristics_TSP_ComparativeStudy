@@ -1,0 +1,10 @@
+
+        QUANTUM TSP OPTIMIZATION REPORT
+        ===============================
+        - Number of Cities: 4
+        - Best Route Distance: 80.00
+        - Optimal Route: 2 → 3 → 1 → 0
+        - Initial Distance: 80.00
+        - Final Improvement: 0.0%
+        - Convergence Plot: demo_results/convergence_20250323_195332.png
+        

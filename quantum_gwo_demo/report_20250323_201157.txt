@@ -1,0 +1,10 @@
+
+        QUANTUM GWO OPTIMIZATION REPORT
+        ===============================
+        - Cities: 5
+        - Qubits per City: 10
+        - Best Distance: 32.00
+        - Optimal Route: 2 → 0 → 4 → 3 → 1
+        - Final Rotation Step: 0.0000
+        - Entanglement Operations: 25.0%
+        

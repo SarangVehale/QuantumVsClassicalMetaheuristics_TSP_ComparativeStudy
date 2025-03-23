@@ -1,0 +1,12 @@
+
+        ENHANCED GWO OPTIMIZATION REPORT
+        ================================
+        - Number of Cities: 5
+        - Best Route Distance: 125.00
+        - Optimal Route Sequence: 2 → 0 → 4 → 1 → 3
+        - Initial Distance: 125.00
+        - Final Improvement: 0.0%
+        - Total Iterations: 1001
+        - Final Diversity: 96/150
+        - Convergence Plot: enhanced_gwo_demo/convergence_20250323_200941.png
+        
