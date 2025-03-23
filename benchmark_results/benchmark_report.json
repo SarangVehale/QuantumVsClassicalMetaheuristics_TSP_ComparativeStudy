@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "problem_size": 30,
+    "runs": 5,
+    "timestamp": "2025-03-23T21:09:33.118432"
+  },
+  "results": {
+    "EnhancedTSPGWO": {
+      "mean_distance": 5.908889242828239,
+      "std_distance": 0.37941189546182846,
+      "min_distance": 5.463454162147337,
+      "max_distance": 6.465145898875851,
+      "mean_time": 11.041411542892456,
+      "std_time": 0.07983821758562769
+    },
+    "QuantumGWO_TSP": {
+      "mean_distance": 5.236005981966258,
+      "std_distance": 0.356179925519991,
+      "min_distance": 4.767694819988093,
+      "max_distance": 5.788472186545896,
+      "mean_time": 3.4490880012512206,
+      "std_time": 3.943215304460539
+    },
+    "TSPBHO": {
+      "mean_distance": 11.654023054178163,
+      "std_distance": 0.4477939239531527,
+      "min_distance": 10.780085996408594,
+      "max_distance": 12.014048606179689,
+      "mean_time": 1.312328815460205,
+      "std_time": 0.20193033897741602
+    },
+    "QIBHOTSP": {
+      "mean_distance": 11.613201203065971,
+      "std_distance": 0.7424118981646868,
+      "min_distance": 10.62139569595151,
+      "max_distance": 12.506653488146078,
+      "mean_time": 2.5376625061035156,
+      "std_time": 0.474853517882727
+    }
+  }
+}
